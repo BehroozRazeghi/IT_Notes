@@ -1,2 +1,2 @@
 # IT_Notes
-Information Theory notes for students
+My notes on Information Theory and Statistics
